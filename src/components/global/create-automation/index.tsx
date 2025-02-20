@@ -1,7 +1,7 @@
 import { Button } from "@/components/ui/button";
 import React from "react";
 import Loader from "../loader";
-import { AutomationDuoToneBlue, AutomationDuoToneWhite } from "@/icons";
+import { AutomationDuoToneWhite } from "@/icons";
 
 type Props = {};
 const CreateAutomation = (props: Props) => {
